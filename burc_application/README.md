@@ -1,4 +1,4 @@
-# burc_application
+# horoscope_application
 
 A new Flutter project.
 
